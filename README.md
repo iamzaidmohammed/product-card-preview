@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-iH6bH4cVmt)
-- Live Site URL: [Add live site URL here](https://zaidmohammed7.github.io/product-card-preview/)
+- Solution URL: (https://www.frontendmentor.io/solutions/product-preview-card-component-iH6bH4cVmt)
+- Live Site URL: (https://zaidmohammed7.github.io/product-card-preview/)
 
 ### Built with
 
